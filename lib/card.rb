@@ -10,7 +10,3 @@ class Card
         @category = category
     end 
 end 
-
-# card_1 = Card.new("What is the capital of Alaska?", "Juneau", :Geography)
-# card_2 = Card.new("Who was the 16th President of the US?", "Abraham Lincoln", :History)
-# card_3 = Card.new("Which planet is closest to the sun?", "Mercury", :STEM)
